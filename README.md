@@ -15,8 +15,7 @@ O intuito deste documento é apresentar os pré-requisitos para a avaliação t�
 Podemos dividir esta avaliação em duas principais etapas:
 
 1. Desenvolvimento front-end do layout [disponível neste link](https://www.figma.com/file/o0u8SSXuTNpaYEU78rCo5u/Coopers---Site-para-teste-Front-End), sendo o mais fiel possível em todos os navegadores mais utilizados na atualidade: Chrome, Safari, Firefox e Microsoft Edge.
-2. O layout possui uma galeria no destaque principal, portanto esperamos que seja feita a implementação de JavaScript para funcionamento deste elemento.
-3. Implementação do front-end como tema customizado do Wordpress, tendo todo o seu conteúdo dinâmico, permitindo atualização através do painel administrativo da plataforma.
+3. Implementação do front-end como tema customizado do Wordpress, tendo todo o seu conteúdo dinâmico, permitindo atualização através do painel administrativo da plataforma. É obrigatório o uso do plugin [Advanced Custom Fields](https://advancedcustomfields.com/) para a criação dos campos customizados, pois utilizamos em todos os nossos projetos.
 
 ## Critérios de avaliação
 
@@ -41,6 +40,11 @@ Pode ser usado tanto JavaScript "Vanilla" como jQuery nesta página. Também ava
 ### Performance
 
 Avaliaremos as medidas utilizadas para garantir uma boa performance de carregamento e renderização da página.
+
+### Wordpress
+
+Como ponto de partida, recomendamos o uso do [Underscores](https://underscores.me/) como tema base para o Wordpress, pois ele já possui toda a estrutura mínima necessária para o funcionamento do tema customizado.
+Nosso critério de avaliação inclui a correta estruturação do tema, usando as recomendações do CMS, além da lógica utilizada para exibir os dados dinâmicos no tema, principalmente os campos customizados via Advanced Custom Fields.
 
 ## Prazo
 
