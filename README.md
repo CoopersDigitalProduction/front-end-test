@@ -53,6 +53,7 @@ O prazo limite para entrega da avaliação é de 2 semanas.
 ## Entrega
 
 A entrega deve ser feita disponibilizando um link para visualizar o projeto rodando em servidor remoto, credenciais de acesso ao painel o Wordpress, além de repositório para avaliação do código-fonte.
+Também esperamos receber um descritivo comentando como foi o processo de desenvolvimento deste desafio, incluindo as dificuldades e soluções encontradas.
 
 ## Dúvidas?
 
