@@ -8,7 +8,7 @@
 
 # Avaliação Front-end Developer
 
-O intuito deste documento é apresentar os pré-requisitos para a avaliação técnica do desenvolver front-end, com base em layout criado por nossa equipe especificamente para esta finalidade.
+O intuito deste documento é apresentar os pré-requisitos para a avaliação técnica do desenvolvedor front-end, com base em layout criado por nossa equipe especificamente para esta finalidade.
 
 ## Briefing
 
