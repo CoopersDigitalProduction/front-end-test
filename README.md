@@ -14,7 +14,7 @@ O intuito deste documento é apresentar os pré-requisitos para a avaliação t�
 
 Podemos dividir esta avaliação em duas principais etapas:
 
-1. Desenvolvimento front-end do layout [disponível neste link](https://www.figma.com/file/OAMrciHo0uOf4H2cgg3MDm/Coopers---Site-para-teste-Front-End-%2F-Full-Stack?node-id=290%3A6333), sendo o mais fiel possível em todos os navegadores mais utilizados na atualidade: Chrome, Safari, Firefox e Microsoft Edge.
+1. Desenvolvimento front-end do layout [disponível neste link](https://www.figma.com/file/o0u8SSXuTNpaYEU78rCo5u/Coopers---Site-para-teste-Front-End?node-id=3299%3A330), sendo o mais fiel possível em todos os navegadores mais utilizados na atualidade: Chrome, Safari, Firefox e Microsoft Edge.
 3. Implementação do front-end como tema customizado do Wordpress, tendo todo o seu conteúdo dinâmico, permitindo atualização através do painel administrativo da plataforma. É obrigatório o uso do plugin [Advanced Custom Fields](https://advancedcustomfields.com/) para a criação dos campos customizados, pois utilizamos em todos os nossos projetos.
 
 ## Critérios de avaliação
