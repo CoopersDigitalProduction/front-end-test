@@ -15,7 +15,7 @@ O intuito deste documento é apresentar os pré-requisitos para a avaliação t�
 Podemos dividir esta avaliação em duas principais etapas:
 
 1. Desenvolvimento front-end do layout [disponível neste link](https://www.figma.com/file/o0u8SSXuTNpaYEU78rCo5u/Coopers---Site-para-teste-Front-End?node-id=3299%3A330), sendo o mais fiel possível em todos os navegadores mais utilizados na atualidade: Chrome, Safari, Firefox e Microsoft Edge.
-3. Implementação do front-end como tema customizado do Wordpress, tendo todo o seu conteúdo dinâmico, permitindo atualização através do painel administrativo da plataforma. É obrigatório o uso do plugin [Advanced Custom Fields](https://advancedcustomfields.com/) para a criação dos campos customizados, pois utilizamos em todos os nossos projetos.
+2. Implementação do front-end como tema customizado do Wordpress, tendo todo o seu conteúdo dinâmico, permitindo atualização através do painel administrativo da plataforma. É obrigatório o uso do plugin [Advanced Custom Fields](https://advancedcustomfields.com/) para a criação dos campos customizados, pois utilizamos em todos os nossos projetos.
 
 ## Critérios de avaliação
 
@@ -24,6 +24,8 @@ Podemos dividir esta avaliação em duas principais etapas:
 Avaliaremos a qualidade do código escrito, desde a correta utilização de tags de acordo com sua semântica, como o aspecto de Acessibilidade seguindo as boas práticas dos padrões WCAG para uso de atributos e renderização do conteúdo sem dependência de CSS e/ou JavaScript.
 
 Além da semântica, avaliaremos a inserção de comentários, uso coerente de classes e ID's nas tags e código enxuto, sem redundâncias.
+
+*Dica de ferramenta para avaliação de acessibilidade: [WAVE](https://wave.webaim.org/)*
 
 ### CSS
 
@@ -35,7 +37,7 @@ Além da correta reprodução do design, avaliaremos o código CSS quanto a conc
 
 ### JavaScript
 
-Pode ser usado tanto JavaScript "Vanilla" como jQuery nesta página. Também avaliaremos o comportamento da página com e sem JS ativado no navegador, por motivos de Acessibilidade e Performance.
+Pode ser usado tanto JavaScript "Vanilla" como jQuery nesta página para criação dos sliders e demais comportamentos em que for necessário. Também avaliaremos o comportamento da página com e sem JS ativado no navegador, por motivos de Acessibilidade e Performance.
 
 ### Performance
 
